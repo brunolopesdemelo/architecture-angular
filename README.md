@@ -6,8 +6,9 @@ This project aims to integrate project architecture in FRONT environments.<br />
 <br />
 **About us**
 <br />
-You can find to *Bruno* on on [![LinkedIn][3.2]][3]. <br />
-You can find to *Alejandro* on [![LinkedIn][3.2]][4].
+You can find to *Alejandro* on [![LinkedIn][3.2]][4]. <br />
+You can find to *Bruno* on on [![LinkedIn][3.2]][3]. 
+
 
 <br />
 
