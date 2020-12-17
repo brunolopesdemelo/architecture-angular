@@ -30,6 +30,7 @@ You can find to *Alejandro* on [![LinkedIn][3.2]][4].
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Sublime_Text-informational?style=flat&logo=Sublime-Text&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse-ide&logoColor=white&color=2bbc8a)
 <br />
 ![](https://img.shields.io/badge/Code-Node_JS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
@@ -73,9 +74,19 @@ Run for a dev server. Navigate to `http://localhost:4200/`. The app will automat
 
 2. **Code scaffolding** for generate a new component, ussing option *generate*. Other options can also use *directive|pipe|service|class|guard|interface|enum|module*. Examples:
 
-> $ ng generate **component** *[component-name]*<br />
-> $ ng generate **directive** *[directive-name]*<br />
-> $ ng generate **service** *[service-name]*<br />
+Scaffold  | Usage
+---       | ---
+[Component](https://angular.io/cli/generate#component)      | `ng g component my-new-component`
+[Directive](https://angular.io/cli/generate#directive)      | `ng g directive my-new-directive`
+[Pipe](https://angular.io/cli/generate#pipe)                | `ng g pipe my-new-pipe`
+[Service](https://angular.io/cli/generate#service)          | `ng g service my-new-service`
+[Class](https://angular.io/cli/generate#class)              | `ng g class my-new-class`
+[Guard](https://angular.io/cli/generate#guard)              | `ng g guard my-new-guard`
+[Interface](https://angular.io/cli/generate#interface)      | `ng g interface my-new-interface`
+[Enum](https://angular.io/cli/generate#enum)                | `ng g enum my-new-enum`
+[Module](https://angular.io/cli/generate#module)            | `ng g module my-module`
+
+<br/>
 
 3. **Build** Run option **build** to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build. Example:
 
