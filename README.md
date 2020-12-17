@@ -12,13 +12,26 @@ For this we propose to create a project with a folder structure where each compo
 <br />
 <br />
 
-**About us**
-<br />
+### LIFT Principle 
+
+[LIFT](http://bguiz.github.io/js-standards/angularjs/application-structure-lift-principle/) Provides a consistent structure that scales well, is modular, and makes it easier to increase developer efficiency by finding code quickly.<br />
+
+Action  | Usage
+---       | ---
+Locate | Locating our code is easy
+Identify | Identify code at a glance
+Flat | Flat structure as long as we can
+Try | Try to stay DRY (Don't Repeat Yourself) or T-DRY
+
+
+### About us
 
 You can find to *Alejandro* on [![LinkedIn][3.2]][4], and to *Bruno* on [![LinkedIn][3.2]][3]. 
 <br />
+
 ## About the project
 <br />
+
 ![](https://img.shields.io/badge/dynamic/json?color=orange&label=architecture-angular&prefix=v&query=version&suffix=update&url=https%3A%2F%2Fraw.githubusercontent.com%2Fbrunolopesdemelo%2Farchitecture-angular%2Fmain%2Fpackage.json)
 
 <br />
