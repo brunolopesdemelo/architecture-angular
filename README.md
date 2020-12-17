@@ -10,6 +10,7 @@ A good practice of maintaining a folder structure is very beneficial. With this 
 <br />
 For this we propose to create a project with a folder structure where each component with its functionality is in a place intended for it.
 <br />
+<br />
 
 **About us**
 <br />
