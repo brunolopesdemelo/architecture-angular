@@ -3,18 +3,22 @@
 
 Hello everyone, thank you for visiting our project.<br />
 This project aims to integrate project architecture in FRONT environments.<br />
+This objective is to maintain the separation between the angular components (service, pipes, directives, etc.) for a good maintenance and scalability of the project.<br />
+A good practice of maintaining a folder structure is very beneficial. With this we can say:<br />
+1. *Regarding scalability*, the project is easier to add new functions, because its structure defines where a component type will be installed.
+2. *Maintenance is faster*, a mistake will be easy to find and correct.<br/>
 <br />
+For this we propose to create a project with a folder structure where each component with its functionality is in a place intended for it.
+<br />
+
 **About us**
 <br />
+
 You can find to *Alejandro* on [![LinkedIn][3.2]][4]. <br />
 You can find to *Bruno* on on [![LinkedIn][3.2]][3]. 
-
-
 <br />
-
 ## About the project
 <br />
-
 ![](https://img.shields.io/badge/dynamic/json?color=orange&label=architecture-angular&prefix=v&query=version&suffix=update&url=https%3A%2F%2Fraw.githubusercontent.com%2Fbrunolopesdemelo%2Farchitecture-angular%2Fmain%2Fpackage.json)
 
 <br />
