@@ -15,8 +15,7 @@ For this we propose to create a project with a folder structure where each compo
 **About us**
 <br />
 
-You can find to *Alejandro* on [![LinkedIn][3.2]][4]. <br />
-You can find to *Bruno* on on [![LinkedIn][3.2]][3]. 
+You can find to *Alejandro* on [![LinkedIn][3.2]][4], and to *Bruno* on [![LinkedIn][3.2]][3]. 
 <br />
 ## About the project
 <br />
