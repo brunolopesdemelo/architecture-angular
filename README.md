@@ -7,14 +7,10 @@ This objective is to maintain the separation between the angular components (ser
 A good practice of maintaining a folder structure is very beneficial. With this we can say:<br />
 1. *Regarding scalability*, the project is easier to add new functions, because its structure defines where a component type will be installed.
 2. *Maintenance is faster*, a mistake will be easy to find and correct.<br/>
-<br />
-For this we propose to create a project with a folder structure where each component with its functionality is in a place intended for it.
-<br />
-<br />
 
-### LIFT Principle 
+### Our proposal
 
-[LIFT](http://bguiz.github.io/js-standards/angularjs/application-structure-lift-principle/) Provides a consistent structure that scales well, is modular, and makes it easier to increase developer efficiency by finding code quickly.<br />
+For this we propose to create a project with a folder structure where each component with its functionality is in a place intended for it, we propose the [LIFT principle](http://bguiz.github.io/js-standards/angularjs/application-structure-lift-principle/) Provides a consistent structure that scales well, is modular, and makes it easier to increase developer efficiency by finding code quickly.<br />
 
 Action  | Usage
 ---       | ---
@@ -22,7 +18,6 @@ Locate | Locating our code is easy
 Identify | Identify code at a glance
 Flat | Flat structure as long as we can
 Try | Try to stay DRY (Don't Repeat Yourself) or T-DRY
-
 
 ### About us
 
