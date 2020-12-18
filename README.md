@@ -118,6 +118,8 @@ Scaffold  | Usage
 > ng help
 > 
 
+## Some Steps this project
+[About Routing](https://github.com/brunolopesdemelo/architecture-angular/blob/main/README_ROUTING.md)
 
 <!-- icons with padding -->
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
