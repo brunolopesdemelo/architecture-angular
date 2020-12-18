@@ -1,16 +1,22 @@
-import { BrowserModule } from '@angular/platform-browser';
+//core
 import { NgModule } from '@angular/core';
-
+import { BrowserModule } from '@angular/platform-browser';
+import { Router } from '@angular/router';
+//app
 import { AppComponent } from './app.component';
+import { PageNotFoundComponent } from './modules/page-not-found/page-not-found.component';
+
+import { AppRoutingModule } from './app.routing.module';
+import { HomeModule } from './modules/home/home.module';
+
 
 @NgModule({
-  declarations: [
-    AppComponent
-  ],
-  imports: [
-    BrowserModule
-  ],
+  imports: [ BrowserModule, HomeModule, AppRoutingModule ],
+  declarations: [ AppComponent, PageNotFoundComponent ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [ AppComponent ]
 })
-export class AppModule { }
+
+export class AppModule {
+  constructor(router: Router){}
+}

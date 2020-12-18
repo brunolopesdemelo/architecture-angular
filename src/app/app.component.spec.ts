@@ -16,16 +16,11 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
-  it(`should have as title 'architecture-angular'`, () => {
-    const fixture = TestBed.createComponent(AppComponent);
-    const app = fixture.componentInstance;
-    expect(app.title).toEqual('architecture-angular');
-  });
-
-  it('should render title', () => {
+  it('should render title "Angular Architecture"', () => {
     const fixture = TestBed.createComponent(AppComponent);
     fixture.detectChanges();
     const compiled = fixture.nativeElement;
-    expect(compiled.querySelector('.content span').textContent).toContain('architecture-angular app is running!');
+    expect(compiled.querySelector('h1.title').textContent).toContain('Angular Architecture');
   });
+
 });
