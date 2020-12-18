@@ -1,5 +1,4 @@
 //core
-import { HtmlParser } from '@angular/compiler';
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 //app
@@ -16,4 +15,4 @@ const homeRoutes: Routes = [
   exports: [ RouterModule ]
 })
 
-export class HomeRoutingModule {}
+export class HomeRoutingModule {};
