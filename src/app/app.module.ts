@@ -3,7 +3,7 @@ import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { Router } from '@angular/router';
 //app
-import { AppComponent } from './app.component';
+import { AppComponent } from './modules/app/app.component';
 import { PageNotFoundComponent } from './modules/page-not-found/page-not-found.component';
 
 import { AppRoutingModule } from './app.routing.module';
