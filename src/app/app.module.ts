@@ -6,8 +6,8 @@ import { Router } from '@angular/router';
 //app
 import { AppComponent } from './app.component';
 import { AppRoutingModule } from './app.routing.module';
-import { HomeModule } from './modules/home/home.module';
-import { PageNotFoundComponent } from './modules/page-not-found/page-not-found.component';
+import { HomeModule } from './core/home/home.module';
+import { PageNotFoundComponent } from './core/page-not-found/page-not-found.component';
 
 @NgModule({
   imports: [ BrowserModule, HomeModule, AppRoutingModule ],
