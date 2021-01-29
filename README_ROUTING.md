@@ -165,3 +165,23 @@ export const appRoutes: Routes = [
 export class AppRoutingModule {};
 
 ```
+
+
+
+
+
+------
+
+ --como criar um novo módulo desse projeto
+ -- how to create a new module for this project
+
+ng generate module  NEW-MODULE --route NEW-MODULE --module app.module
+
+result:
+            CREATE src/app/NEW-MODULE/NEW-MODULE-routing.module.ts
+            CREATE src/app/NEW-MODULE/NEW-MODULE.module.ts
+            CREATE src/app/NEW-MODULE/NEW-MODULE.component.html
+            CREATE src/app/NEW-MODULE/NEW-MODULE.component.spec.ts
+            CREATE src/app/NEW-MODULE/NEW-MODULE.component.ts
+            CREATE src/app/NEW-MODULE/NEW-MODULE.component.css
+            UPDATE src/app/app-routing.module.ts
