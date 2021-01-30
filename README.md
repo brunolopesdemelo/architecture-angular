@@ -51,6 +51,7 @@ You can find to *Alejandro* on [![LinkedIn][3.2]][4], and to *Bruno* on [![Linke
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML_5-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Repository-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=2bbc8a)
 
 
 <br />
@@ -120,6 +121,19 @@ Scaffold  | Usage
 
 ## Some Steps this project
 [About Routing](https://github.com/brunolopesdemelo/architecture-angular/blob/main/README_ROUTING.md)
+[About Repository](https://github.com/brunolopesdemelo/architecture-angular/blob/main/README_REPOSITORY.md)
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- icons with padding -->
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
