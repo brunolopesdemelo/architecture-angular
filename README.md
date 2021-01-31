@@ -120,8 +120,8 @@ Scaffold  | Usage
 > 
 
 ## Some Steps this project
-[About Routing](https://github.com/brunolopesdemelo/architecture-angular/blob/main/README_ROUTING.md)
-[About Repository](https://github.com/brunolopesdemelo/architecture-angular/blob/main/README_REPOSITORY.md)
+* [About Routing](https://github.com/brunolopesdemelo/architecture-angular/blob/main/README_ROUTING.md)
+* [About Repository](https://github.com/brunolopesdemelo/architecture-angular/blob/main/README_REPOSITORY.md)
 
 
 
